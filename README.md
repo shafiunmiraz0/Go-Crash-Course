@@ -3,7 +3,7 @@
 [![Go](https://img.shields.io/badge/G%20Programming-Language-blue?style=for-the-badge)](https://golang.org/)
 
 
-Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
+Go is an open source, statically typed, compiled programming language that makes it easy to build simple, reliable, and efficient software.
 
 ### Contents
 
@@ -67,8 +67,8 @@ Go is an open source programming language that makes it easy to build simple, re
 
 ### Features of C Programming Language
 
-🟠 [![C](https://img.shields.io/badge/System-Programming-blue?style=flat)]()
+🟠 [![C](https://img.shields.io/badge/Network%20Protocol-Programming-blue?style=flat)]()
 
 ### Popular Open Source GitHub Repository to Contribute
 
-🟠 [![C](https://img.shields.io/badge/Linux-Kernel-blue?style=flat)](https://github.com/torvalds/linux)
+🟠 [![C](https://img.shields.io/badge/Lightning%20Network-Daemon⚡️-blue?style=flat)](https://github.com/lightningnetwork/lnd)

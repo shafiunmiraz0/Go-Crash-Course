@@ -41,7 +41,7 @@ Go is an open source, statically typed, compiled programming language that makes
 
 🟠 [![Go](https://img.shields.io/badge/Introduction%20to-Channels-blue?style=flat)](https://github.com/shafiunmiraz0/Go-Crash-Course/tree/main/Channels)
 
-### Features of C Programming Language
+### Features of Go Programming Language
 
 🟠 [![Go](https://img.shields.io/badge/Network%20Protocol-Programming-blue?style=flat)]()
 
